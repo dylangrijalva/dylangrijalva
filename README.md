@@ -16,6 +16,6 @@ Hi there, I'm mobile app developer, mainly focused on native android development
 
 - ✏ UI Design and Mockups using `Figma`.
 
-- 🛠 Other tools: `Docker`, `K6` (for API performance testing), `Firebase`, `Azure`, `AWS`, and `Postman`.
+- 🛠 Other tools: `Docker`, `K6`, `Firebase`, `Azure`, `AWS`, and `Postman`.
 
 #### 💌 You can reach me at dagndev@gmail.com.
